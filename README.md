@@ -1,7 +1,7 @@
 # Additional Note
-1.You can follow this instruction from youtube https://www.youtube.com/watch?v=r-o6OK8Q9hI
-2.Replace the EFI downloaded from this repository.
-3.Done
+1. You can follow this instruction from youtube https://www.youtube.com/watch?v=r-o6OK8Q9hI
+2. Replace the OC (in EFI folder) downloaded from this repository.
+3. Done
 
 This works with macOS sonoma 14.1 on Dell Latitude 3400
 
