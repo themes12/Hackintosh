@@ -1,5 +1,5 @@
 # Additional Note
-1. You can follow this instruction from youtube https://www.youtube.com/watch?v=r-o6OK8Q9hI
+1. Follow the installation instruction from youtube https://www.youtube.com/watch?v=r-o6OK8Q9hI
 2. Replace the OC (in EFI folder) downloaded from this repository.
 3. Done
 
